@@ -23,7 +23,6 @@ O design segue uma proposta moderna e imersiva, com animações leves e foco na 
 
 ## 📦 Projetos em destaque
 - Simulador de Urna Eletrônica
-- (adicione mais projetos aqui futuramente)
 
 ## 💡 Objetivo
 Desenvolver minhas habilidades como programador, criando projetos práticos e melhorando continuamente minhas capacidades em desenvolvimento web.
